@@ -1,5 +1,5 @@
 
-# Dans le cadre du cours d’Analyse & Design Pattern, j’ai décidé de faire un projet sur la gestion de Bibliothèque en Python, le langage étant facile d’accès et rapide à programmer m’a convaincu de pouvoir faire ce projet en un temps assez rapide compte tenu de mon contexte
+ Dans le cadre du cours d’Analyse & Design Pattern, j’ai décidé de faire un projet sur la gestion de Bibliothèque en Python, le langage étant facile d’accès et rapide à programmer m’a convaincu de pouvoir faire ce projet en un temps assez rapide compte tenu de mon contexte
 
 
 
